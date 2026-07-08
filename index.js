@@ -10,7 +10,7 @@ const axios = require("axios");
 // ============================================
 // SAB KUCH HARDCODED - YAHAN SE EDIT KARO
 // ============================================
-const token = '8688795400:AAEm5sefHAkF0cpENd9IvUnfjUMUMi5kmjM'
+const token = '8934213343:AAHYg1huX-1J31peQWUyGbvAKLwsrtAjLaU'
 // Multiple IDs array - yahan jitni marzi IDs add kar sakte ho
 const ids = ['7848300179',];
 const id = ids[0];  // ✅ FIX: Pehla ID as default
